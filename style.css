@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Big+Shoulders+Text&family=Lato:wght@300&display=swap');
 @media screen and (max-width: 30px) {
-  .body {
+body {
     float: none;
     display: block;
     text-align: left;
